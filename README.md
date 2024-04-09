@@ -4,7 +4,9 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/MarqueseMotley/Azure-SOC)
-
+ 
+  -  <b>Windows VM<b>
+  
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

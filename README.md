@@ -9,4 +9,5 @@
  
   - [Global Reader/Assigning Roles
 ](https://github.com/MarqueseMotley/Global-Reader)
-<!--
+
+  - [SIEM Setup](https://github.com/MarqueseMotley/SIEM-Setup.git)

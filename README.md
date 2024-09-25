@@ -16,3 +16,5 @@
 <h2>KQL</h2>
 
   - [Filtering & Sorting](https://github.com/MarqueseMotley/Summarizing?tab=readme-ov-file#summarizing)
+  
+  - [Summarizing](https://github.com/MarqueseMotley/Summarizing)

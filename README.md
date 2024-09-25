@@ -15,4 +15,4 @@
   - [Flow Logs](https://github.com/MarqueseMotley/Create-Flow-Logs.git)
 <h2>KQL</h2>
 
-  - [Summarizing](https://github.com/MarqueseMotley/Summarizing?tab=readme-ov-file#summarizing)
+  - [Filtering & Sorting](https://github.com/MarqueseMotley/Summarizing?tab=readme-ov-file#summarizing)

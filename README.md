@@ -18,3 +18,7 @@
   - [Filtering & Sorting](https://github.com/MarqueseMotley/Summarizing?tab=readme-ov-file#summarizing)
   
   - [Summarizing](https://github.com/MarqueseMotley/Summarizing)
+
+- <h2>Phishing Emails</h2>
+
+  - [Reading Email Headers]

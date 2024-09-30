@@ -23,4 +23,4 @@
 
   - [Reading Email Headers](https://github.com/MarqueseMotley/reading-email-header)
 
-  - 
+  - [Phishing Email Analysis](https://github.com/MarqueseMotley/Phishing-Email-Analysis?tab=readme-ov-file#phishing-email-analysis)

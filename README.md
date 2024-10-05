@@ -25,6 +25,6 @@
 
   - [Phishing Email Analysis](https://github.com/MarqueseMotley/Phishing-Email-Analysis?tab=readme-ov-file#phishing-email-analysis)
  
-- <h2>XSS Detection</h2>
+- <h2>XSS Attack</h2>
 
-  - XSS
+  - 

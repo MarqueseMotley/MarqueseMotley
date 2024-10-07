@@ -13,18 +13,20 @@
   - [SIEM Setup](https://github.com/MarqueseMotley/SIEM-Setup.git)
 
   - [Flow Logs](https://github.com/MarqueseMotley/Create-Flow-Logs.git)
-- <h2>KQL</h2>
+- <b>KQL</b>
 
   - [Filtering & Sorting](https://github.com/MarqueseMotley/Summarizing?tab=readme-ov-file#summarizing)
   
   - [Summarizing](https://github.com/MarqueseMotley/Summarizing)
 
-- <h2>Phishing Emails</h2>
+<h2>Detecting Web Attacks</h2>
+
+- <b>Phishing Emails</b>
 
   - [Reading Email Headers](https://github.com/MarqueseMotley/reading-email-header)
 
   - [Phishing Email Analysis](https://github.com/MarqueseMotley/Phishing-Email-Analysis?tab=readme-ov-file#phishing-email-analysis)
  
-- <h2>XSS Attack</h2>
+- <b>XSS Attack</b>
 
   - [XSS Attack Detection](https://github.com/MarqueseMotley/XSS-Detection#xss-attack-detection)

@@ -37,6 +37,6 @@
  
 - <b>IDOR Attack</b>
 
-  - IDOR Attack Detection
+  - [IDOR Attack Detection](https://github.com/MarqueseMotley/IDOR-Attack-Detection)
 
   

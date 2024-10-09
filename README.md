@@ -34,5 +34,9 @@
 - <b>Command Injection Attack</b>
 
   - [Injection Detection](https://github.com/MarqueseMotley/Command-Injection-Attack-Detection/blob/main/README.md#command-injection-attack-detection)
+ 
+- <b>IDOR Attack</b>
+
+  - IDOR Attack Detection
 
   

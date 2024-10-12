@@ -41,6 +41,8 @@
  
 <h2>Network Fundamentals</h2>
 
-  - [Locating MAC Address]
+- MAC Address
 
+
+  - [Locating MAC Address](https://github.com/MarqueseMotley/MAC-address)
   

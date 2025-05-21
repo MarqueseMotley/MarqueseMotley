@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marquese! I'm a Dedicated SOC Analyst <br/></h1>
+<h1>Hi, I'm Marquese! I'm a Network Engineer in The Making <br/></h1>
 
 <h2>👨‍💻Azure Projects:</h2>
 
